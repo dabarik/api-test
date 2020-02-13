@@ -43,13 +43,7 @@ $(document).ready(function () {
                 console.log(results);
             }
         })
-
-
-
     })
-
-
-
 
     function refresh(){
         $.ajax({
